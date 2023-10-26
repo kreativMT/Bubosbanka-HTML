@@ -1,0 +1,56 @@
+body{
+    background-color: #e7e7ff;
+    color: #1d1d4e;
+    font-family: Arial;
+}
+main{
+    width: 750px;
+    margin: 0px auto 0px auto;
+    padding: 15px;
+    
+}
+h1{
+    text-align: center;
+    color: green;
+}
+p{
+    text-align: justify;
+}
+img{
+    border: 1px solid #1d1d4e;
+}
+.balkep{
+    width: 200px;
+    float: left;
+    margin-right: 15px;
+}
+.jobbkep{
+    float: right;
+    width: 400px;
+    margin-left: 10px;
+}
+table{
+    width: 320px;
+    float: left;
+    
+}
+td{
+    border: 1px dotted #1d1d4e;
+    padding: 3px;
+}
+.fejsor{
+    text-align: center;
+    background-color: #1d1d4e;
+    color: #e7e7ff;
+    font-weight: bold;
+}
+footer{
+    clear: both;
+    height: 60px;
+    padding-top: 20px;
+}
+.forras{
+    text-align: center;
+    font-style: italic;
+    border-top: 1px solid #1d1d4e;
+}
